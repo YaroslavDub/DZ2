@@ -1,5 +1,5 @@
 # FirstGitProject
 Hello There!
-x = 100
+x = 99
 y = 50
 z = 25
